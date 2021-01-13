@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**alionurgeven/alionurgeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Developer working in Berlin, Germany.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Part Time YouTuber [Ali Onur Geven's YouTube](https://www.youtube.com/channel/UC25HzHQRFBbY_N2rJw0Yu6A)
+
+##### BIO
+
+- 🏢 I'm currently working at **Finbyte GmbH**
+- ⚙️ I use daily: `.java`, `.js`
+- 💬 Ping me about **software architecture** **algorithms** **containerization**
+- 📫 Reach me: [twitter.com/gevendary](https://twitter.com/gevendary)
+- 📫 Reach me: [instagram.com/gevendary](https://instagram.com/gevendary)
+- ⚡️ Fun fact: I have a dog named Java
