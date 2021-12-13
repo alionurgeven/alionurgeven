@@ -8,7 +8,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Finbyte GmbH**
+- 🏢 I'm currently working at **@Trendyol**
 - ⚙️ I use daily: `.java`, `.js`
 - 💬 Ping me about **software architecture**, **algorithms**, **containerization**
 - 📫 Reach me: [twitter.com/gevendary](https://twitter.com/gevendary)
