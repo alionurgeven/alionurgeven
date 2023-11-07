@@ -8,9 +8,8 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **@Trendyol**
-- ⚙️ I use daily: `.java`, `.js`
-- 💬 Ping me about **software architecture**, **algorithms**, **containerization**
-- 📫 Reach me: [twitter.com/gevendary](https://twitter.com/gevendary)
+- 🏢 I'm currently working at **@Tooltime**
+- ⚙️ I use daily: `.java`, `.ts`
+- 💬 Ping me about **software architecture**, **fullstack-development
 - 📫 Reach me: [instagram.com/gevendary](https://instagram.com/gevendary)
 - ⚡️ Fun fact: I have a dog named Java
