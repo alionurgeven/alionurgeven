@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=alionurgeven&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ### Hi there 👋
 
 #### I'm a Developer working in Berlin, Germany.
