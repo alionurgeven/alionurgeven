@@ -1,3 +1,5 @@
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=alionurgeven&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ### Hi there 👋
 
